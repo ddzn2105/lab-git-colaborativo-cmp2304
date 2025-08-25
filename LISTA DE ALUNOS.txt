@@ -1,4 +1,5 @@
 # Lista de Presença - Atividade de Laboratório Git/GitHub
 
 20231002800561 Eduardo Gomes
+20231002802890 Eduardo Barra
 
